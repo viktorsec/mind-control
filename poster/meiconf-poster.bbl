@@ -1,0 +1,22 @@
+\begin{thebibliography}{}
+
+\bibitem[McFarland et~al., 2000]{mcfarland2000mu}
+McFarland, D.~J., Miner, L.~A., Vaughan, T.~M., and Wolpaw, J.~R. (2000).
+\newblock Mu and beta rhythm topographies during motor imagery and actual
+  movements.
+\newblock {\em Brain topography}, 12(3):177--186.
+
+\bibitem[Renard et~al., 2010]{renard2010openvibe}
+Renard, Y., Lotte, F., Gibert, G., Congedo, M., Maby, E., Delannoy, V.,
+  Bertrand, O., and L{\'e}cuyer, A. (2010).
+\newblock Openvibe: An open-source software platform to design, test, and use
+  brain--computer interfaces in real and virtual environments.
+\newblock {\em Presence}, 19(1):35--53.
+
+\bibitem[Schl{\"o}gl et~al., 2005]{schlogl2005characterization}
+Schl{\"o}gl, A., Lee, F., Bischof, H., and Pfurtscheller, G. (2005).
+\newblock Characterization of four-class motor imagery eeg data for the
+  bci-competition 2005.
+\newblock {\em Journal of neural engineering}, 2(4):L14.
+
+\end{thebibliography}

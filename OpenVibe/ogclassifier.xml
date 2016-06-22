@@ -1,0 +1,23 @@
+<OpenViBE-Classifier-Box XMLVersion="3">
+	<Strategy-Identifier class-id="(0xffffffff, 0xffffffff)">Native</Strategy-Identifier>
+	<Algorithm-Identifier class-id="(0x2ba17a3c, 0x1bd46d84)">Linear Discrimimant Analysis (LDA)</Algorithm-Identifier>
+	<Stimulations>
+		<Class-Stimulation class-id="1">OVTK_StimulationId_Label_00</Class-Stimulation>
+		<Class-Stimulation class-id="2">OVTK_StimulationId_Label_01</Class-Stimulation>
+	</Stimulations>
+	<OpenViBE-Classifier>
+		<LDA version="1">
+			<Classes>1 2 </Classes>
+			<Class-config-list>
+				<Class-config>
+					<Weights> 1.649708e+000</Weights>
+					<Bias>-8.30879</Bias>
+				</Class-config>
+				<Class-config>
+					<Weights> 1.774496e+000</Weights>
+					<Bias>-9.5045</Bias>
+				</Class-config>
+			</Class-config-list>
+		</LDA>
+	</OpenViBE-Classifier>
+</OpenViBE-Classifier-Box>
