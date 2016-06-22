@@ -1,12 +1,12 @@
 # mind-control
-This repository contains a hand simple motor imagery BCI (brain computer interface) solution. Tested with NeuroSky's MindWave.
+This repository contains a simple hand motor imagery BCI (brain computer interface) solution. Tested with NeuroSky's MindWave.
 
 # OpenVibe
 Core BCI is done in [OpenVibe](http://openvibe.inria.fr/).
 The following scenarios are available in /OpenVibe folder and are meant to be opened with OpenVibe.
 
 | file | description |
-| -- | -- |
+| --- | --- |
 | signal-aquisition.xml | use to aquire and save signal
 | training.xml | trains classifiers from aquired data
 | classification.xml | classifies online signal with pre-trained classifiers
